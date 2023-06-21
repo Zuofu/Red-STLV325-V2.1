@@ -4,4 +4,7 @@ These are the support files for this board: https://www.aliexpress.us/item/32568
 
 ## Images of the board
 
-/images/img1.jpg
+![Image of the board Red STLV325 V2.1](/images/img1.jpg)
+
+
+
